@@ -6,27 +6,24 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - [Frontend Mentor - NFT preview card component solution](#frontend-mentor---nft-preview-card-component-solution)
   - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
 
-## Overview
-
-### The challenge
+## The challenge
 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
+## Screenshot
 
 ![](./screenshot.png)
 
-### Links
+## Links
 
 - Solution URL: [Source Code](https://github.com/benHaseep/nft-preview-card-component)
 - Live Site URL: [Live Preview](https://benHaseep.github.io/nft-preview-card-component)
